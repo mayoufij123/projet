@@ -50,3 +50,11 @@
 .task th {
     width: 900px;
 }
+
+input {
+    width: 30px;
+}
+
+#mycheck {
+    justify-content: space-between;
+}

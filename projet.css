@@ -1,0 +1,52 @@
+.imggit {
+    width: 50px;
+    height: 40px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.navbar {
+    display: flex;
+    border: 1px solid black;
+    background-color: black;
+}
+
+.navbar .navigation {
+    margin: 5px;
+}
+
+.navigation {
+    display: flex;
+}
+
+.navigation li {
+    margin: 15px;
+    list-style: none;
+    height: 10px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+.pro {
+    margin-left: 950px;
+    height: 35px;
+    margin-top: 5px;
+}
+
+.pro a {
+    color: blue;
+}
+
+.task {
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 50px;
+    height: 500px;
+}
+
+.task th {
+    width: 900px;
+}

@@ -38,6 +38,10 @@ p {
     font-size: 1em;
 }
 
+.task {
+    width: 800px;
+}
+
 h2 {
     font: size 2.2rem;
     cursor: pointer;
@@ -193,5 +197,26 @@ h4 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 10px;
+    margin: 2px;
+}
+
+.contacte {
+    background-color: antiquewhite;
+}
+
+img {
+    height: 50px;
+}
+
+.contacte {
+    display: flex;
+    justify-content: space-around;
+}
+
+.boxe {
+    width: 300px;
+    background-color: var(--bgColor-1);
+    border-radius: 20px;
+    padding: 1.3rem 2rem;
+    text-align: center;
 }

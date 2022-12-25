@@ -1,3 +1,6 @@
+
+
+
 var ckliked=document.getElementsByClassName("mycheck")
 console.log(ckliked)
 var change=document.getElementsByClassName("change")
